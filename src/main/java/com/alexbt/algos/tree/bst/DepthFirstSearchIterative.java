@@ -2,12 +2,14 @@ package com.alexbt.algos.tree.bst;
 
 import java.util.Stack;
 
-import javax.xml.soap.Node;
+import com.alexbt.algos.util.BstNode;
+import com.alexbt.algos.util.Visitor;
+
 
 public class DepthFirstSearchIterative {
 
-    public void inorder(Node node) {
-        Stack<Node> stack = new Stack<>();
+    public void inorder(BstNode node) {
+        Stack<BstNode> stack = new Stack<>();
 
         while (!stack.isEmpty() || node != null) {
             while (node != null) {
@@ -17,19 +19,19 @@ public class DepthFirstSearchIterative {
 
             if (!stack.isEmpty()) {
                 node = stack.pop();
-                visit(node);
+                Visitor.visit(node);
                 node = node.right;
             }
         }
     }
 
-    public void preorder(Node node) {
-        Stack<Node> stack = new Stack<>();
+    public void preorder(BstNode node) {
+        Stack<BstNode> stack = new Stack<>();
 
         while (!stack.isEmpty() || node != null) {
             while (node != null) {
                 stack.push(node);
-                visit(node);
+                Visitor.visit(node);
                 node = node.left;
             }
 

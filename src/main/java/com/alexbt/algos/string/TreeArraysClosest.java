@@ -1,4 +1,4 @@
-package com.alexbt.list;
+package com.alexbt.algos.string;
 
 public class TreeArraysClosest {
 

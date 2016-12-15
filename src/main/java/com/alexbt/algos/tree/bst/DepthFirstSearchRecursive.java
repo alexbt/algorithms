@@ -1,35 +1,38 @@
 package com.alexbt.algos.tree.bst;
 
+import com.alexbt.algos.util.BstNode;
+import com.alexbt.algos.util.Visitor;
+
 public class DepthFirstSearchRecursive {
     
-    public void inorder(Node node){
+    public void inorder(BstNode node){
         if(node==null){
             return;
         }
         
-        recursiveInorder(node.left);
-        visit(node);
-        recursiveInorder(node.right);
+        inorder(node.left);
+        Visitor.visit(node);
+        inorder(node.right);
     }
     
-    public void preorder(Node node){
+    public void preorder(BstNode node){
         if(node==null){
             return;
         }
         
-        visit(node);
-        recursiveInorder(node.left);
-        recursiveInorder(node.right);
+        Visitor.visit(node);
+        inorder(node.left);
+        inorder(node.right);
     }
     
-    public void postorder(Node node){
+    public void postorder(BstNode node){
         if(node==null){
             return;
         }
         
-        recursiveInorder(node.left);
-        recursiveInorder(node.right);
-        visit(node);
+        inorder(node.left);
+        inorder(node.right);
+        Visitor.visit(node);
     }
 
 }

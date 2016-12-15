@@ -1,4 +1,4 @@
-package com.alexbt.algos.tree.bst.redblack;
+package com.alexbt.algos.tree.redblack;
 
 public class RedBlackTree {
 

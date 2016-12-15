@@ -1,18 +1,22 @@
 package com.alexbt.algos.tree.bst;
 
-import java.util.Stack;
+import java.util.LinkedList;
+import java.util.Queue;
 
 import javax.xml.soap.Node;
 
+import com.alexbt.algos.util.BstNode;
+import com.alexbt.algos.util.Visitor;
+
 public class BreadthFirstSearch {
 
-    public void traversal(Node node) {
-        Queue<Node> queue = new LinkedList<Node>();
+    public void traversal(BstNode root) {
+        Queue<BstNode> queue = new LinkedList<BstNode>();
 
-        queue.add(node);
+        queue.add(root);
         while (!queue.isEmpty()) {
-            Node node = queue.remove();
-            visit(node);
+            BstNode node = queue.remove();
+            Visitor.visit(node);
             queue.add(node.left);
             queue.add(node.right);
         }
