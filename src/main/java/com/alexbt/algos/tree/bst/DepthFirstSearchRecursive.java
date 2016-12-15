@@ -1,6 +1,6 @@
-package com.alexbt.algos.tree;
+package com.alexbt.algos.tree.bst;
 
-public class RecursiveTraversal {
+public class DepthFirstSearchRecursive {
     
     public void inorder(Node node){
         if(node==null){

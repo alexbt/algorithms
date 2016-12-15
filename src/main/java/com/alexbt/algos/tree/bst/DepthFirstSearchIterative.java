@@ -1,10 +1,10 @@
-package com.alexbt.algos.tree;
+package com.alexbt.algos.tree.bst;
 
 import java.util.Stack;
 
 import javax.xml.soap.Node;
 
-public class IterativeTraversal {
+public class DepthFirstSearchIterative {
 
     public void inorder(Node node) {
         Stack<Node> stack = new Stack<>();

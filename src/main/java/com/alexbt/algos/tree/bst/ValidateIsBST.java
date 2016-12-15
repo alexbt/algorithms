@@ -1,6 +1,6 @@
-package com.alexbt.algos.tree;
+package com.alexbt.algos.tree.bst;
 
-public class Validate {
+public class ValidateIsBST {
 
     public static void main(String[] args) {
         return isValid(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
