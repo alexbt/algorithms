@@ -1,4 +1,4 @@
-package com.alexbt.algos.array;
+package com.alexbt.algos.dynamic;
 
 //
 

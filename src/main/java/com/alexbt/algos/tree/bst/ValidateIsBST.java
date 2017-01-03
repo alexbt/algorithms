@@ -13,6 +13,6 @@ public class ValidateIsBST {
             return false;
         }
 
-        return isValid(node.left, min, node.val - 1) && isValid(node.right, node.val + 1, max);
+        return isValid(node.left, min, node.val) && isValid(node.right, node.val, max);
     }
 }
