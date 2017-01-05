@@ -115,6 +115,7 @@ http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 
 Classic problems:
 --Two Pointers--
+
 1. Rotate Array, Reverse Words in a String
 2. Evaluate Reverse Polish Notation (Stack)
 3. Isomorphic Strings
