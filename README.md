@@ -293,6 +293,7 @@ class Queue{
 The Java standard library contains a class called "Stack". Another class from Java SDK is LinkedList, which can be used as a Queue (add(. and remove()). (LinkedList implements the Queue interface.. If a stack or queue is required to solve problems during your interview, they are ready to be used.
 
 Classic Problems:
+
 0. Implement a Stack Using an Array
 1. Add Two Numbers
 2. Reorder List
@@ -493,6 +494,7 @@ Output:
 value: 2 value: 3 value: 5 Find value: 5
 value: 4
 Classic Problems:
+
 1. Clone Graph
 2. Course Schedule , Course Schedule II , Minimum Height Trees
 3. Reconstruct Itinerary
@@ -511,6 +513,7 @@ Merge sort	n log(n)	n log(n)	depends
 * BinSort, Radix Sort and CountSort use different set of assumptions than the rest, and so they are not "general" sorting methods. (Thanks to Fidel for pointing this out)
 
 Here are some implementations/demos, and in addition, you may want to check out how Java developers sort in practice.
+
 1. Mergesort
 2. Quicksort
 3. InsertionSort.
@@ -541,6 +544,7 @@ public static int f3(int n. {
 	return A[n];
 }
 Classic problems:
+
 1. Edit Distance
 1. Distinct Subsequences Total
 2. Longest Palindromic Substring
@@ -590,7 +594,9 @@ For example, get second bit of number 10.
 
 i=1, n=10
 1<<1= 10 1010&10=10 10 is not 0, so return true;
+
 Classic Problems:
+
 1. Single Number
 1. Single Number II
 2. Maximum Binary Gap
@@ -616,6 +622,7 @@ Example 2:
 Given 5 banaba, 4 pear, and 3 apple, assuming one kind of fruit are the same, how many different combinations?
 
 Class Problems:
+
 1. Permutations
 2. Permutations II 
 3. Permutation Sequence
@@ -657,6 +664,7 @@ UPDATE: I decided to add more categories below.
 1. Shortest Word Distance II
 
 Additional Problems:
+
 1. Self Crossing
 2. Patching Array
 3. Nim Game
