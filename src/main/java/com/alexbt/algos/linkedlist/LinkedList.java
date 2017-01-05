@@ -38,7 +38,7 @@ public class LinkedList {
             root = node;
             node = tmp;
         }
-        
+
         return root;
     }
 

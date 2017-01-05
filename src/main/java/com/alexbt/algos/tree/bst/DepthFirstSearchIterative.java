@@ -5,7 +5,6 @@ import java.util.Stack;
 import com.alexbt.algos.util.BstNode;
 import com.alexbt.algos.util.Visitor;
 
-
 public class DepthFirstSearchIterative {
 
     public void inorder(BstNode node) {

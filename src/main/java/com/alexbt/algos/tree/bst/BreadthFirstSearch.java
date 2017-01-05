@@ -3,8 +3,6 @@ package com.alexbt.algos.tree.bst;
 import java.util.LinkedList;
 import java.util.Queue;
 
-import javax.xml.soap.Node;
-
 import com.alexbt.algos.util.BstNode;
 import com.alexbt.algos.util.Visitor;
 
