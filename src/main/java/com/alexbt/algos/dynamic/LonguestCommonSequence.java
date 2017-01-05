@@ -22,7 +22,7 @@ public class LonguestCommonSequence {
         int wordLength = word.length();
         int[][] dp = new int[wordLength + 1][textLength + 1];
 
-        init(textLength, wordLength, dp);
+        init(dp);
         for (int j = 1; j <= textLength; j++) {
             for (int i = 1; i <= wordLength; i++) {
                 if (text.charAt(j - 1) == word.charAt(i - 1)) {
@@ -36,11 +36,11 @@ public class LonguestCommonSequence {
         return dp[wordLength][textLength];
     }
 
-    private static void init(int textLength, int wordLength, int[][] dp) {
-        for (int j = 0; j <= textLength; j++) {
+    private static void init(int[][] dp) {
+        for (int j = 0; j <= dp.length; j++) {
             dp[0][j] = 0;
         }
-        for (int i = 0; i <= wordLength; i++) {
+        for (int i = 0; i <= dp[0].length; i++) {
             dp[i][0] = 0;
         }
     }

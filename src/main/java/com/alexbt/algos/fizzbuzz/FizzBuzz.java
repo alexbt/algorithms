@@ -9,22 +9,15 @@ package com.alexbt.algos.fizzbuzz;
 public class FizzBuzz {
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {
-            boolean match = false;
-            if (i % 3 == 0) {
-                System.out.print("Fizz");
-                match = true;
+            if (i % 15 == 0) {
+                System.out.println("FizzBuzz");
+            } else if (i % 3 == 0) {
+                System.out.println("Fizz");
+            } else if (i % 5 == 0) {
+                System.out.println("Buzz");
+            } else {
+                System.out.println(i);
             }
-
-            if (i % 5 == 0) {
-                System.out.print("Buzz");
-                match = true;
-            }
-
-            if (!match) {
-                System.out.print(i);
-            }
-
-            System.out.println();
         }
     }
 }
