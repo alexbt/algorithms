@@ -1,4 +1,4 @@
-#SOURCE 1) geeksforgeeks - top-10-algorithms-in-interview-questions
+#SOURCE 1. geeksforgeeks - top-10-algorithms-in-interview-questions
 
 http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
@@ -109,114 +109,114 @@ String / Array
 
 --------------------
 
-#SOURCE 2) programcreek - top-10-algorithms-for-coding-interview
+#SOURCE 2. programcreek - top-10-algorithms-for-coding-interview
 
 http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 
 Classic problems:
 --Two Pointers--
-1) Rotate Array, Reverse Words in a String
-2) Evaluate Reverse Polish Notation (Stack)
-3) Isomorphic Strings
-4) Word Ladder (BFS), Word Ladder II (BFS)
-5) Median of Two Sorted Arrays
-5) Kth Largest Element in an Array
-6) Wildcard Matching, Regular Expression Matching
-7) Merge Intervals, Insert Interval
-9) Two Sum, Two Sum II, Two Sum III, 3Sum, 4Sum
-10) 3Sum Closest
-11) String to Integer
-12) Merge Sorted Array
-13) Valid Parentheses
-13) Longest Valid Parentheses
-14) Implement strStr()
-15) Minimum Size Subarray Sum
-16) Search Insert Position
-17) Longest Consecutive Sequence
-18) Valid Palindrome
-19) ZigZag Conversion
-20) Add Binary 
-21) Length of Last Word
-22) Triangle
-24) Contains Duplicate: I, II, III
-25) Remove Duplicates from Sorted Array: I, II, Remove Element , Move Zeroes
-27) Longest Substring Without Repeating Characters
-28) Longest Substring that contains 2 unique characters [Google]
-28) Substring with Concatenation of All Words
-29) Minimum Window Substring
-31) Find Minimum in Rotated Sorted Array: I, II
-32) Search in Rotated Array:I, II
-33) Min Stack
-34) Majority Element: I, II
-35) Bulls and Cows 
-36) Largest Rectangle in Histogram
-37) Longest Common Prefix [Google]
-38) Largest Number
-39) Simplify Path
-40) Compare Version Numbers
-41) Gas Station
-44) Pascal's Triangle: I, II
-45) Container With Most Water
-45) Candy [Google]
-45) Trapping Rain Water
-46) Count and Say
-47) Search for a Range
-48) Basic Calculator, Basic Calculator II
-49) Group Anagrams
-50) Shortest Palindrome
-51) Rectangle Area
-52) Summary Ranges
-53) Increasing Triplet Subsequence
-54) Get Target Using Number List And Arithmetic Operations 
-55) Reverse Vowels of a String 
-56) Flip Game, Flip Game II
-57) Missing Number, Find the duplicate number, First Missing Positive 
-58) Valid Anagram, Group Shifted Strings
-59) Top K Frequent Elements
-60) Find Peak Element
-61) Word Pattern, Word Pattern II
-62) H-Index , H-Index II
-63) Palindrome Pairs
-64) One Edit Distance
-65) Scramble String
-66) First Bad Version
-67) Integer to English Words
-68) Text Justification 
-69) Remove Invalid Parentheses
-70) Intersection of Two Arrays, Intersection of Two Arrays II
-71) Sliding Window Maximum, Moving Average from Data Stream
-72) Guess Number Higher or Lower
+1. Rotate Array, Reverse Words in a String
+2. Evaluate Reverse Polish Notation (Stack)
+3. Isomorphic Strings
+4. Word Ladder (BFS), Word Ladder II (BFS)
+5. Median of Two Sorted Arrays
+5. Kth Largest Element in an Array
+6. Wildcard Matching, Regular Expression Matching
+7. Merge Intervals, Insert Interval
+9. Two Sum, Two Sum II, Two Sum III, 3Sum, 4Sum
+10. 3Sum Closest
+11. String to Integer
+12. Merge Sorted Array
+13. Valid Parentheses
+13. Longest Valid Parentheses
+14. Implement strStr()
+15. Minimum Size Subarray Sum
+16. Search Insert Position
+17. Longest Consecutive Sequence
+18. Valid Palindrome
+19. ZigZag Conversion
+20. Add Binary 
+21. Length of Last Word
+22. Triangle
+24. Contains Duplicate: I, II, III
+25. Remove Duplicates from Sorted Array: I, II, Remove Element , Move Zeroes
+27. Longest Substring Without Repeating Characters
+28. Longest Substring that contains 2 unique characters [Google]
+28. Substring with Concatenation of All Words
+29. Minimum Window Substring
+31. Find Minimum in Rotated Sorted Array: I, II
+32. Search in Rotated Array:I, II
+33. Min Stack
+34. Majority Element: I, II
+35. Bulls and Cows 
+36. Largest Rectangle in Histogram
+37. Longest Common Prefix [Google]
+38. Largest Number
+39. Simplify Path
+40. Compare Version Numbers
+41. Gas Station
+44. Pascal's Triangle: I, II
+45. Container With Most Water
+45. Candy [Google]
+45. Trapping Rain Water
+46. Count and Say
+47. Search for a Range
+48. Basic Calculator, Basic Calculator II
+49. Group Anagrams
+50. Shortest Palindrome
+51. Rectangle Area
+52. Summary Ranges
+53. Increasing Triplet Subsequence
+54. Get Target Using Number List And Arithmetic Operations 
+55. Reverse Vowels of a String 
+56. Flip Game, Flip Game II
+57. Missing Number, Find the duplicate number, First Missing Positive 
+58. Valid Anagram, Group Shifted Strings
+59. Top K Frequent Elements
+60. Find Peak Element
+61. Word Pattern, Word Pattern II
+62. H-Index , H-Index II
+63. Palindrome Pairs
+64. One Edit Distance
+65. Scramble String
+66. First Bad Version
+67. Integer to English Words
+68. Text Justification 
+69. Remove Invalid Parentheses
+70. Intersection of Two Arrays, Intersection of Two Arrays II
+71. Sliding Window Maximum, Moving Average from Data Stream
+72. Guess Number Higher or Lower
 
 2. Matrix
 
 Common methods to solve matrix related problem include DFS, BFS, dynamic programming, etc.
 
 Classic Problems:
-1) Set Matrix Zeroes
-2) Spiral Matrix
-2) Spiral Matrix II
-3) Search a 2D Matrix
-3) Search a 2D Matrix II
-4) Rotate Image [Palantir]
-5) Valid Sudoku 
-6) Minimum Path Sum (DP) [Google]
-7) Unique Paths (DP) [Google]
-7) Unique Paths II (DP)
-8) Number of Islands (DFS/BFS), Number of Islands II (Disjoint Set), Number of Connected Components in an Undirected Graph
-9) Surrounded Regions (BFS)
-10) Maximal Rectangle
-10) Maximal Square
-11) Word Search (DFS)
-11) Word Search II
-13) Range Sum Query 2D � Immutable
-14) Longest Increasing Path in a Matrix (DFS)
-15) Shortest Distance from All Buildings
-16) Game of Life
-17) Paint House, Paint House II
-18) Sudoku Solver (DFS)
-19) Walls and Gates (DFS/BFS)
-20) Tic-Tac-Toe
-21) Best Meeting Point
+1. Set Matrix Zeroes
+2. Spiral Matrix
+2. Spiral Matrix II
+3. Search a 2D Matrix
+3. Search a 2D Matrix II
+4. Rotate Image [Palantir]
+5. Valid Sudoku 
+6. Minimum Path Sum (DP. [Google]
+7. Unique Paths (DP. [Google]
+7. Unique Paths II (DP)
+8. Number of Islands (DFS/BFS), Number of Islands II (Disjoint Set), Number of Connected Components in an Undirected Graph
+9. Surrounded Regions (BFS)
+10. Maximal Rectangle
+10. Maximal Square
+11. Word Search (DFS)
+11. Word Search II
+13. Range Sum Query 2D � Immutable
+14. Longest Increasing Path in a Matrix (DFS)
+15. Shortest Distance from All Buildings
+16. Game of Life
+17. Paint House, Paint House II
+18. Sudoku Solver (DFS)
+19. Walls and Gates (DFS/BFS)
+20. Tic-Tac-Toe
+21. Best Meeting Point
 
 3. Linked List
 
@@ -226,7 +226,7 @@ class Node {
 	int val;
 	Node next;
  
-	Node(int x) {
+	Node(int x. {
 		val = x;
 		next = null;
 	}
@@ -288,31 +288,31 @@ class Queue{
 		}	
 	}
 }
-The Java standard library contains a class called "Stack". Another class from Java SDK is LinkedList, which can be used as a Queue (add() and remove()). (LinkedList implements the Queue interface.) If a stack or queue is required to solve problems during your interview, they are ready to be used.
+The Java standard library contains a class called "Stack". Another class from Java SDK is LinkedList, which can be used as a Queue (add(. and remove()). (LinkedList implements the Queue interface.. If a stack or queue is required to solve problems during your interview, they are ready to be used.
 
 Classic Problems:
-0) Implement a Stack Using an Array
-1) Add Two Numbers
-2) Reorder List
-3) Linked List Cycle
-4) Copy List with Random Pointer
-5) Merge Two Sorted Lists
-6) Odd Even Linked List
-7) Remove Duplicates from Sorted List
-7) Remove Duplicates from Sorted List II
-8) Partition List
-9) LRU Cache
-10) Intersection of Two Linked Lists
-11) Remove Linked List Elements
-12) Swap Nodes in Pairs
-13) Reverse Linked List, Reverse Linked List II, Print Linked List in Reversed Order
-14) Remove Nth Node From End of List (Fast-Slow Pointers)
-15) Implement Stack using Queues
-15) Implement Queue using Stacks
-16) Palindrome Linked List
-17) Implement a Queue using an Array
-18) Delete Node in a Linked List
-19) Reverse Nodes in k-Group
+0. Implement a Stack Using an Array
+1. Add Two Numbers
+2. Reorder List
+3. Linked List Cycle
+4. Copy List with Random Pointer
+5. Merge Two Sorted Lists
+6. Odd Even Linked List
+7. Remove Duplicates from Sorted List
+7. Remove Duplicates from Sorted List II
+8. Partition List
+9. LRU Cache
+10. Intersection of Two Linked Lists
+11. Remove Linked List Elements
+12. Swap Nodes in Pairs
+13. Reverse Linked List, Reverse Linked List II, Print Linked List in Reversed Order
+14. Remove Nth Node From End of List (Fast-Slow Pointers)
+15. Implement Stack using Queues
+15. Implement Queue using Stacks
+16. Palindrome Linked List
+17. Implement a Queue using an Array
+18. Delete Node in a Linked List
+19. Reverse Nodes in k-Group
 
 4. Tree, Heap and Trie
 
@@ -334,60 +334,60 @@ Heap is a specialized tree-based data structure that satisfies the heap property
 
 4.1 Tree
 
-1) Binary Tree Traversal: Preorder, Inorder, Postorder, Level Order, Level Order II, Vertical Order
-2) Invert Binary Tree
-3) Kth Smallest Element in a BST
-4) Binary Tree Longest Consecutive Sequence
-5) Validate Binary Search Tree
-6) Flatten Binary Tree to Linked List
-7) Path Sum (DFS or BFS)
-7) Path Sum II (DFS) 
-8) Construct Binary Tree from Inorder and Postorder Traversal
-8) Construct Binary Tree from Preorder and Inorder Traversal
-9) Convert Sorted Array to Binary Search Tree [Google]
-10) Convert Sorted List to Binary Search Tree [Google]
-11) Minimum Depth of Binary Tree
-12) Binary Tree Maximum Path Sum *
-13) Balanced Binary Tree
-14) Symmetric Tree
-15) Binary Search Tree Iterator 
-16) Binary Tree Right Side View
-17) Lowest Common Ancestor of a Binary Search Tree
-18) Lowest Common Ancestor of a Binary Tree
-19) Verify Preorder Serialization of a Binary Tree
-20) Populating Next Right Pointers in Each Node 
-21) Populating Next Right Pointers in Each Node II 
-21) Unique Binary Search Trees (DP)
-21) Unique Binary Search Trees II (DFS)
-22) Sum Root to Leaf Numbers (DFS)
-23) Count Complete Tree Nodes 
-24) Closest Binary Search Tree Value
-25) Binary Tree Paths
-26) Maximum Depth of Binary Tree
+1. Binary Tree Traversal: Preorder, Inorder, Postorder, Level Order, Level Order II, Vertical Order
+2. Invert Binary Tree
+3. Kth Smallest Element in a BST
+4. Binary Tree Longest Consecutive Sequence
+5. Validate Binary Search Tree
+6. Flatten Binary Tree to Linked List
+7. Path Sum (DFS or BFS)
+7. Path Sum II (DFS. 
+8. Construct Binary Tree from Inorder and Postorder Traversal
+8. Construct Binary Tree from Preorder and Inorder Traversal
+9. Convert Sorted Array to Binary Search Tree [Google]
+10. Convert Sorted List to Binary Search Tree [Google]
+11. Minimum Depth of Binary Tree
+12. Binary Tree Maximum Path Sum *
+13. Balanced Binary Tree
+14. Symmetric Tree
+15. Binary Search Tree Iterator 
+16. Binary Tree Right Side View
+17. Lowest Common Ancestor of a Binary Search Tree
+18. Lowest Common Ancestor of a Binary Tree
+19. Verify Preorder Serialization of a Binary Tree
+20. Populating Next Right Pointers in Each Node 
+21. Populating Next Right Pointers in Each Node II 
+21. Unique Binary Search Trees (DP)
+21. Unique Binary Search Trees II (DFS)
+22. Sum Root to Leaf Numbers (DFS)
+23. Count Complete Tree Nodes 
+24. Closest Binary Search Tree Value
+25. Binary Tree Paths
+26. Maximum Depth of Binary Tree
 27 Recover Binary Search Tree
-28) Same Tree
-29) Serialize and Deserialize Binary Tree
-30) Inorder Successor in BST
-31) Find Leaves of Binary Tree
-32) Largest BST Subtree
+28. Same Tree
+29. Serialize and Deserialize Binary Tree
+30. Inorder Successor in BST
+31. Find Leaves of Binary Tree
+32. Largest BST Subtree
 
 4.2 Heap
 
-1) Merge k sorted arrays [Google]
-2) Merge k Sorted Lists *
-3) Find Median from Data Stream
-4) Meeting Rooms II, Meeting Rooms
-5) Range Addition
+1. Merge k sorted arrays [Google]
+2. Merge k Sorted Lists *
+3. Find Median from Data Stream
+4. Meeting Rooms II, Meeting Rooms
+5. Range Addition
 
 4.3 Trie
 
-1) Implement Trie (Prefix Tree)
-2) Add and Search Word - Data structure design (DFS)
+1. Implement Trie (Prefix Tree)
+2. Add and Search Word - Data structure design (DFS)
 
 4.4 Segment Tree
 
-1) Range Sum Query - Mutable
-2) The Skyline Problem
+1. Range Sum Query - Mutable
+2. The Skyline Problem
 
 5. Graph
 
@@ -397,7 +397,7 @@ Below is a simple implementation of a graph and breath first search. The key is 
 
 breath-first-search
 
-1) Define a GraphNode
+1. Define a GraphNode
 
 class GraphNode{ 
 	int val;
@@ -405,7 +405,7 @@ class GraphNode{
 	GraphNode[] neighbors;
 	boolean visited;
  
-	GraphNode(int x) {
+	GraphNode(int x. {
 		val = x;
 	}
  
@@ -418,7 +418,7 @@ class GraphNode{
 		return "value: "+ this.val; 
 	}
 }
-2) Define a Queue
+2. Define a Queue
 
 class Queue{
 	GraphNode first, last;
@@ -443,11 +443,11 @@ class Queue{
 		}	
 	}
 }
-3) Breath First Search uses a Queue
+3. Breath First Search uses a Queue
 
 public class GraphTest {
  
-	public static void main(String[] args) {
+	public static void main(String[] args. {
 		GraphNode n1 = new GraphNode(1); 
 		GraphNode n2 = new GraphNode(2); 
 		GraphNode n3 = new GraphNode(3); 
@@ -472,7 +472,7 @@ public class GraphTest {
 		queue.enqueue(root);
  
 		while(queue.first != null){
-			GraphNode c = (GraphNode) queue.dequeue();
+			GraphNode c = (GraphNode. queue.dequeue();
 			for(GraphNode n: c.neighbors){
  
 				if(!n.visited){
@@ -491,10 +491,10 @@ Output:
 value: 2 value: 3 value: 5 Find value: 5
 value: 4
 Classic Problems:
-1) Clone Graph
-2) Course Schedule , Course Schedule II , Minimum Height Trees
-3) Reconstruct Itinerary
-4) Graph Valid Tree
+1. Clone Graph
+2. Course Schedule , Course Schedule II , Minimum Height Trees
+3. Reconstruct Itinerary
+4. Graph Valid Tree
 
 6. Sorting
 
@@ -509,11 +509,11 @@ Merge sort	n log(n)	n log(n)	depends
 * BinSort, Radix Sort and CountSort use different set of assumptions than the rest, and so they are not "general" sorting methods. (Thanks to Fidel for pointing this out)
 
 Here are some implementations/demos, and in addition, you may want to check out how Java developers sort in practice.
-1) Mergesort
-2) Quicksort
-3) InsertionSort.
-4) Maximum Gap (Bucket Sort)
-5) Sort Colors (Counting Sort)
+1. Mergesort
+2. Quicksort
+3. InsertionSort.
+4. Maximum Gap (Bucket Sort)
+5. Sort Colors (Counting Sort)
 
 7. Dynamic Programming
 
@@ -528,44 +528,44 @@ The problem of climbing steps perfectly fit those 4 properties. Therefore, it ca
 
 public static int[] A = new int[100];
  
-public static int f3(int n) {
+public static int f3(int n. {
 	if (n <= 2)
 		A[n]= n;
  
 	if(A[n] > 0)
 		return A[n];
 	else
-		A[n] = f3(n-1) + f3(n-2);//store results so only calculate once!
+		A[n] = f3(n-1. + f3(n-2);//store results so only calculate once!
 	return A[n];
 }
 Classic problems:
-1) Edit Distance
-1) Distinct Subsequences Total
-2) Longest Palindromic Substring
-3) Word Break
-3) Word Break II
-4) Maximum Subarray
-4) Maximum Product Subarray
-5) Palindrome Partitioning
-5) Palindrome Partitioning II 
-6) House Robber [Google]
-6) House Robber II
-6) House Robber III
-7) Jump Game
-7) Jump Game II
-8) Best Time to Buy and Sell Stock 
-8) Best Time to Buy and Sell Stock II
-8) Best Time to Buy and Sell Stock III 
-8) Best Time to Buy and Sell Stock IV 
-9) Dungeon Game 
-10) Minimum Path Sum
-11) Unique Paths
-12) Decode Ways
-13) Longest Common Subsequence
-14) Longest Common Substring
-15) Longest Increasing Subsequence
-16) Coin Change
-17) Perfect Squares
+1. Edit Distance
+1. Distinct Subsequences Total
+2. Longest Palindromic Substring
+3. Word Break
+3. Word Break II
+4. Maximum Subarray
+4. Maximum Product Subarray
+5. Palindrome Partitioning
+5. Palindrome Partitioning II 
+6. House Robber [Google]
+6. House Robber II
+6. House Robber III
+7. Jump Game
+7. Jump Game II
+8. Best Time to Buy and Sell Stock 
+8. Best Time to Buy and Sell Stock II
+8. Best Time to Buy and Sell Stock III 
+8. Best Time to Buy and Sell Stock IV 
+9. Dungeon Game 
+10. Minimum Path Sum
+11. Unique Paths
+12. Decode Ways
+13. Longest Common Subsequence
+14. Longest Common Substring
+15. Longest Increasing Subsequence
+16. Coin Change
+17. Perfect Squares
 
 8. Bit Manipulation
 
@@ -589,17 +589,17 @@ For example, get second bit of number 10.
 i=1, n=10
 1<<1= 10 1010&10=10 10 is not 0, so return true;
 Classic Problems:
-1) Single Number
-1) Single Number II
-2) Maximum Binary Gap
-3) Number of 1 Bits 
-4) Reverse Bits 
-5) Repeated DNA Sequences
-6) Bitwise AND of Numbers Range 
-7) Sum of Two Integers
-8) Counting Bits
-9) Maximum Product of Word Lengths
-10) Gray Code
+1. Single Number
+1. Single Number II
+2. Maximum Binary Gap
+3. Number of 1 Bits 
+4. Reverse Bits 
+5. Repeated DNA Sequences
+6. Bitwise AND of Numbers Range 
+7. Sum of Two Integers
+8. Counting Bits
+9. Maximum Product of Word Lengths
+10. Gray Code
 
 9. Combinations and Permutations
 
@@ -614,57 +614,57 @@ Example 2:
 Given 5 banaba, 4 pear, and 3 apple, assuming one kind of fruit are the same, how many different combinations?
 
 Class Problems:
-1) Permutations
-2) Permutations II 
-3) Permutation Sequence
-4) Generate Parentheses
-5) Combination Sum (DFS), II (DFS), III (DFS), IV (DP)
-6) Combinations (DFS)
-7) Letter Combinations of a Phone Number (DFS)
-8) Restore IP Addresses
-9) Factor Combinations (DFS)
+1. Permutations
+2. Permutations II 
+3. Permutation Sequence
+4. Generate Parentheses
+5. Combination Sum (DFS), II (DFS), III (DFS), IV (DP)
+6. Combinations (DFS)
+7. Letter Combinations of a Phone Number (DFS)
+8. Restore IP Addresses
+9. Factor Combinations (DFS)
 
 10. Math
 
 Solving math problems usually require us to find regularities or repeated pattern from the observations. List the results for a small set of numbers first, if you do not have any ideas.
 
-1) Reverse Integer
-2) Palindrome Number
-3) Pow(x,n), Power of Two, Power of Three, Power of Four 
-4) Subsets
-5) Subsets II
-6) Fraction to Recurring Decimal [Google]
-7) Excel Sheet Column Number
-8) Excel Sheet Column Title 
-9) Factorial Trailing Zeroes
-10) Happy Number
-11) Count Primes
-12) Plus One
-13) Divide Two Integers
-14) Multiply Strings
-15) Max Points on a Line
-16) Product of Array Except Self
-17) Integer Break
-18) Add Digits
-21) Ugly Number, 9Ugly Number II, Super Ugly Number, Find K Pairs with Smallest Sums
+1. Reverse Integer
+2. Palindrome Number
+3. Pow(x,n), Power of Two, Power of Three, Power of Four 
+4. Subsets
+5. Subsets II
+6. Fraction to Recurring Decimal [Google]
+7. Excel Sheet Column Number
+8. Excel Sheet Column Title 
+9. Factorial Trailing Zeroes
+10. Happy Number
+11. Count Primes
+12. Plus One
+13. Divide Two Integers
+14. Multiply Strings
+15. Max Points on a Line
+16. Product of Array Except Self
+17. Integer Break
+18. Add Digits
+21. Ugly Number, 9Ugly Number II, Super Ugly Number, Find K Pairs with Smallest Sums
 
 UPDATE: I decided to add more categories below.
 
 11. HashMap
 
-1) Shortest Word Distance II
+1. Shortest Word Distance II
 
 Additional Problems:
-1) Self Crossing
-2) Patching Array
-3) Nim Game
-4) Bulb Switcher
-5) Pain Fence
-6) Nested List Weight Sum
+1. Self Crossing
+2. Patching Array
+3. Nim Game
+4. Bulb Switcher
+5. Pain Fence
+6. Nested List Weight Sum
 
 
 
-#SOURCE 3) javarevisited.blogspot.ca - top-15-data-structures-algorithm-interview-questions-answers-java-programming
+#SOURCE 3. javarevisited.blogspot.ca - top-15-data-structures-algorithm-interview-questions-answers-java-programming
 
 http://javarevisited.blogspot.ca/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html
 
@@ -679,19 +679,19 @@ This question has bit of similarity with earlier algorithm and data structure in
 This is another frequently asked linked list interview question. This question is exactly similar to finding middle element of linked list in single pass. If we apply same trick of maintaining two pointers and increment other pointer, when first has moved up to 3rd element, than when first pointer reaches to the end of linked list, second pointer will be pointing to the 3rd element from last in a linked list.
 
 **Question 4**: In an integer array, there is 1 to 100 number, out of one is duplicate, how to find?
-This is a rather simple data structures question, especially for this kind of. In this case you can simply add all numbers stored in array, and total sum should be equal to n(n+1)/2. Now just subtract actual sum to expected sum, and that is your duplicate number. Of course there is a brute force way of checking each number against all other numbers, but that will result in performance of O(n^2) which is not good. By the way this trick will not work if array have multiple duplicates or its not numbers forming arithmetic progression. Here is example of one way to find duplicate number in array.
+This is a rather simple data structures question, especially for this kind of. In this case you can simply add all numbers stored in array, and total sum should be equal to n(n+1)/2. Now just subtract actual sum to expected sum, and that is your duplicate number. Of course there is a brute force way of checking each number against all other numbers, but that will result in performance of O(n^2. which is not good. By the way this trick will not work if array have multiple duplicates or its not numbers forming arithmetic progression. Here is example of one way to find duplicate number in array.
 
 **Question 6** : How to reverse String in Java ?
-This is one of my favorite question. Since String is one of the most important type of programming, you expect lot of question related to String any data structure interview. There are many ways to reverse Sting in Java or any other programming language, and interviewer will force you to solve this problem by using without API i.e. without using reverse() method of StringBuffer. In follow-up he may ask to reverse String using recursion as well. See 3 ways to reverse String in Java to learn reversing String using both loops and recursion in Java.
+This is one of my favorite question. Since String is one of the most important type of programming, you expect lot of question related to String any data structure interview. There are many ways to reverse Sting in Java or any other programming language, and interviewer will force you to solve this problem by using without API i.e. without using reverse(. method of StringBuffer. In follow-up he may ask to reverse String using recursion as well. See 3 ways to reverse String in Java to learn reversing String using both loops and recursion in Java.
 
 **Question 7**: Write a Java program to sort an array using Bubble Sort algorithm?
 I have always send couple of questions from searching and sorting in data structure interviews. Bubble sort is one of the simplest sorting algorithm but if you ask anyone to implement on the spot it gives you an opportunity to gauge programming skills of a candidate. See How to sort array using Bubble Sort in Java for complete solution of this datastrucutre interview question.
 
 **Question 8**: What is the difference between Stack and Queue data structure?
-One of the classical data structure interviews question. I guess every one know, No? Any way main difference is that Stack is LIFO(Last In First Out) data structure while Queue is a FIFO(First In First Out) data structure.
+One of the classical data structure interviews question. I guess every one know, No? Any way main difference is that Stack is LIFO(Last In First Out. data structure while Queue is a FIFO(First In First Out. data structure.
 
 **Question 9**: How do you find duplicates in an array if there is more than one duplicate?
-Sometime this is asked as follow-up question of earlier data structure interview question, related to finding duplicates in Array. One way of solving this problem is using a Hashtable or HashMap data structure. You can traverse through array, and store each number as key and number of occurrence as value. At the end of traversal you can find all duplicate numbers, for which occurrence is more than one. In Java if a number already exists in HashMap then calling get(index) will return number otherwise it return null. this property can be used to insert or update numbers in HashMap.
+Sometime this is asked as follow-up question of earlier data structure interview question, related to finding duplicates in Array. One way of solving this problem is using a Hashtable or HashMap data structure. You can traverse through array, and store each number as key and number of occurrence as value. At the end of traversal you can find all duplicate numbers, for which occurrence is more than one. In Java if a number already exists in HashMap then calling get(index. will return number otherwise it return null. this property can be used to insert or update numbers in HashMap.
 
 **Question 10** : What is difference between Singly Linked List and Doubly Linked List data structure?
 This is another classical interview question on data structure, mostly asked on telephonic rounds. Main difference between singly linked list and doubly linked list is ability to traverse. In a single linked list, node only points towards next node, and there is no pointer to previous node, which means you can not traverse back on a singly linked list. On the other hand doubly linked list maintains two pointers, towards next and previous node, which allows you to navigate in both direction in any linked list.
@@ -700,7 +700,7 @@ This is another classical interview question on data structure, mostly asked on 
 This is not a data structures question, but a programming one, which many times appear during data structure interview. Fibonacci series is a mathematical series, where each number is sum of previous two numbers e.g. 1,1, 2, 3, 5, 8, 13, 21. Interviewer is often interested in two things, a function which returns nth number in Fibonacci series and solving this problem using recursion in Java. Though, its easy question, recursion part often confuses beginners. See this link to find nth Fibonacci number in Java.
 
 **Question 12**: Write Java program to check if a number is a palindrome or not?
-This is similar to previous question, not directly related to data structures, but quite popular along with other questions. A number is called palindrome, if reverse of number is equal to number itself. Interviewer ask to solve this problem without taking help from Java API or any open source library. Any way it’s simple question, you can use division operator (/) and remainder operator (%) to solve this question. Just remember, division operator can be used to get rid of last digit e.g. 1234/10 will give you 123, and modulus operator can give you last digit e.g. 1234%10 will return 4. By the way, here is a Java program check if number is palindrome or not.
+This is similar to previous question, not directly related to data structures, but quite popular along with other questions. A number is called palindrome, if reverse of number is equal to number itself. Interviewer ask to solve this problem without taking help from Java API or any open source library. Any way it’s simple question, you can use division operator (/. and remainder operator (%. to solve this question. Just remember, division operator can be used to get rid of last digit e.g. 1234/10 will give you 123, and modulus operator can give you last digit e.g. 1234%10 will return 4. By the way, here is a Java program check if number is palindrome or not.
 
 **Question 13** : What is binary search tree?
 This is a data structure question from Tree data structures. Binary Search Tree has some special properties e.g. left nodes contains items whose value is less than root , right sub tree contains keys with higher node value than root, and there should not be any duplicates in the tree. Apart from definition, interview can ask you to implement binary search tree in Java and questions on tree traversal e.g. IN order, preorder, and post order traversals are quite popular data structure question.
@@ -709,10 +709,10 @@ This is a data structure question from Tree data structures. Binary Search Tree 
 This is another good question on data structures. There are many algorithms to reverse linked list and you can search for them using google. I am thinking of writing another blog post to explain linked list reversal and will share with you later.
 
 **Question 15**: Write a Java program to implement Stack in Java?
-You can implement Stack by using array or linked list. This question expect you to implement standard method provided by stack data structure e.g. push() and pop().  Both push() and pop() should be happen at top of stack, which you need to keep track. It’s also good if you can implement utility methods like contains(), isEmpty() etc. By the way JDK has java.util.Stack class and you can check it’s code to get an idea. You can also check Effective Java book, where Josh Bloch has explains how an incorrect implementation of stack can cause memory leak in Java.
+You can implement Stack by using array or linked list. This question expect you to implement standard method provided by stack data structure e.g. push(. and pop().  Both push(. and pop(. should be happen at top of stack, which you need to keep track. It’s also good if you can implement utility methods like contains(), isEmpty(. etc. By the way JDK has java.util.Stack class and you can check it’s code to get an idea. You can also check Effective Java book, where Josh Bloch has explains how an incorrect implementation of stack can cause memory leak in Java.
 
 
-#SOURCE 4) wiki.dreamrunner.org - Programming Interviews Exposed
+#SOURCE 4. wiki.dreamrunner.org - Programming Interviews Exposed
 
 http://wiki.dreamrunner.org/public_html/BooksReview/Interview/Programming%20Interviews%20Exposed%20Secrets%20to%20Landing%20Your%20Next%20Job.html
 
@@ -753,7 +753,7 @@ Tip Explain what you are doing to your interviewer before and while coding the s
 
 Ask questions when necessary. You generally won’t be penalized for asking factual questions that you might otherwise look up in a reference. You obviously can’t ask a question like, “How do I solve this problem?” but it is acceptable to ask a question like, “I can’t remember - what format string do I use to print out a localized date?” While it’s better to know these things, it’s okay to ask this sort of question.
 After you’ve written the code for a problem, immediately verify that the code is correct by tracing through it with an example. This step demonstrates very clearly that your code works in at least one case. It also illustrates a logical thought process and your desire to check your work and search for bugs. The example may also help you flush out minor bugs in your solution.
-Make sure you check your code for all error and special cases, especially boundary conditions. Many error and special cases are overlooked by programmers; forgetting these cases in an interview indicates you may forget them on the job. For example, if you allocate memory dynamically, make sure you check that the allocation did not fail. (If time does not allow for extensive checking, at the very least explain that you should check for such failures.) Covering error and special cases will impress your interviewer and help you correctly solve the problem.
+Make sure you check your code for all error and special cases, especially boundary conditions. Many error and special cases are overlooked by programmers; forgetting these cases in an interview indicates you may forget them on the job. For example, if you allocate memory dynamically, make sure you check that the allocation did not fail. (If time does not allow for extensive checking, at the very least explain that you should check for such failures.. Covering error and special cases will impress your interviewer and help you correctly solve the problem.
 Tip Try an example, and check all error and special cases.
 
 Once you try an example and feel comfortable that your code is correct, the interviewer may ask you questions about what you wrote. Commonly, these questions focus on running time, alternative implementations, and complexity. If your interviewer does not ask you these questions, you should volunteer the information to show that you are cognizant of these issues. For example, you could say, “This implementation has linear running time, which is the best possible because I have to check all the input values. The dynamic memory allocation will slow it down a little, as will the overhead of using recursion.”
@@ -793,12 +793,12 @@ protected:
     Element *head;
 };
 
-Stack::Stack() {
+Stack::Stack(. {
     head = NULL;
     return;
 }
 
-Stack::~Stack() {
+Stack::~Stack(. {
     while( head ){
         Element *next = head->next;
         delete head;
@@ -816,7 +816,7 @@ void Stack::push( void *data ){
     return;
 }
 
-void *Stack::pop() {
+void *Stack::pop(. {
     Element *popElement = head;
     void *data;
 
@@ -904,12 +904,12 @@ void preorderTraversal( Node root ){
     stack.push( root );
     while( true ){
         Node curr = stack.pop();
-        if( curr == null ) break;
+        if( curr == null . break;
         curr.printValue();
         Node n = curr.getRight();
-        if( n != null ) stack.push( n );
+        if( n != null . stack.push( n );
         n = curr.getLeft();
-        if( n != null ) stack.push( n );
+        if( n != null . stack.push( n );
     }
 }
 Lowest Common Ancestor
@@ -1040,23 +1040,23 @@ Explain the difference between an interface and an abstract class in object-orie
 
 An interface declares a set of related methods, outside of any class.
 An abstract class is an incomplete class definition that declares but does not define all of its methods.
-Conceptually, then, an interface defines an application programming interface (API) that is independent of any class hierarchy. In fact, interfaces can be used in non-OO programming models, such as componentbased models like COM and CORBA. However, you’re focusing on the use of interfaces in an object-oriented context, where they are useful in their own right. Interfaces are the ultimate encapsulators, because they hide all the details of the classes that implement their methods from the user of the interface. They’re particularly important - almost necessary, in fact - in languages that only support single inheritance (classes can only inherit from one base class). A class that exposes its members via an interface is said to implement the interface.
+Conceptually, then, an interface defines an application programming interface (API. that is independent of any class hierarchy. In fact, interfaces can be used in non-OO programming models, such as componentbased models like COM and CORBA. However, you’re focusing on the use of interfaces in an object-oriented context, where they are useful in their own right. Interfaces are the ultimate encapsulators, because they hide all the details of the classes that implement their methods from the user of the interface. They’re particularly important - almost necessary, in fact - in languages that only support single inheritance (classes can only inherit from one base class). A class that exposes its members via an interface is said to implement the interface.
 
-Unlike an interface, an abstract class is a proper class: It can have data members and can be a subclass of other classes. Unlike a concrete (nonabstract) class, however, some of its behaviors are deliberately left to be defined by its own subclasses. Abstract classes cannot be instantiated because of this - only instances of concrete subclasses can be created.
+Unlike an interface, an abstract class is a proper class: It can have data members and can be a subclass of other classes. Unlike a concrete (nonabstract. class, however, some of its behaviors are deliberately left to be defined by its own subclasses. Abstract classes cannot be instantiated because of this - only instances of concrete subclasses can be created.
 
 Virtual Methods
 
 Describe what virtual methods are and why they are useful.
 
-A virtual method is a method whose implementation is determined at run time based on the actual type (class) of the invoking object. Nonstatic Java methods are always virtual, so Java programmers may have trouble answering this one; but in C# and C++, methods are only virtual when declared with the virtual keyword - nonvirtual methods are the default.
+A virtual method is a method whose implementation is determined at run time based on the actual type (class. of the invoking object. Nonstatic Java methods are always virtual, so Java programmers may have trouble answering this one; but in C# and C++, methods are only virtual when declared with the virtual keyword - nonvirtual methods are the default.
 
-Once you explain what virtual methods are and why they’re useful, talk about their advantages and disadvantages. The primary advantage was just described: the run-time method selection. Virtual methods are also used to declare abstract methods. The disadvantages are that it takes longer to invoke a virtual method (at a minimum, one lookup needs to be done in a table to find the right method - you can’t jump directly to the method as you can with nonvirtuals) and that extra memory is required to store the information needed for the lookup.
+Once you explain what virtual methods are and why they’re useful, talk about their advantages and disadvantages. The primary advantage was just described: the run-time method selection. Virtual methods are also used to declare abstract methods. The disadvantages are that it takes longer to invoke a virtual method (at a minimum, one lookup needs to be done in a table to find the right method - you can’t jump directly to the method as you can with nonvirtuals. and that extra memory is required to store the information needed for the lookup.
 
 Multiple Inheritance
 
 Why do C# and Java disallow the multiple inheritance of classes?
 
-In C++ it’s legal for a class to inherit (directly or indirectly) from more than one class, which is referred to as multiple inheritance. C# and Java, however, limit classes to single inheritance - each class inherits from a single parent class.
+In C++ it’s legal for a class to inherit (directly or indirectly. from more than one class, which is referred to as multiple inheritance. C# and Java, however, limit classes to single inheritance - each class inherits from a single parent class.
 
 Multiple inheritance is a useful way to create classes that combine aspects of two disparate class hierarchies, something that often happens when using different class frameworks within a single application. If two frameworks define their own base classes for exceptions, for example, you can use multiple inheritance to create exception classes that can be used with either framework.
 
@@ -1089,7 +1089,7 @@ Chapter 10: Databases
 
 Database Fundamentals
 
-Data in a relational database is stored in tables, which consist of rows and columns. (A set of tables is referred to as a schema.) Each table has at least one column, but there may be no rows. Each column has a type associated with it, which limits the type of data that can be stored in the column, as well as additional constraints. Although the columns are ordered, the rows aren’t. Any ordering that is required is done when the data is fetched (via a query) from the database.
+Data in a relational database is stored in tables, which consist of rows and columns. (A set of tables is referred to as a schema.. Each table has at least one column, but there may be no rows. Each column has a type associated with it, which limits the type of data that can be stored in the column, as well as additional constraints. Although the columns are ordered, the rows aren’t. Any ordering that is required is done when the data is fetched (via a query. from the database.
 
 Most tables have keys, although it’s not a requirement (but it is good design). A key is a column or set of columns that uniquely identifies a particular row in the table. One of the keys is designated to be the primary key. For example, in a table of employees, you would use the employee identification number - guaranteed to be unique for each employee - as the primary key.
 
@@ -1127,11 +1127,11 @@ Important You are given a database with the following tables:
 
 Company (
     companyName CHAR(30),
-    id          INT(4) PRIMARY KEY
+    id          INT(4. PRIMARY KEY
 )
 
 EmployeesHired (
-    id            INT(4) PRIMARY KEY,
+    id            INT(4. PRIMARY KEY,
     numHired      INT(4),
     fiscalQuarter INT(4),
     FOREIGN KEY id REFERENCES Company
@@ -1165,15 +1165,15 @@ Three-Valued Logic
 Important Given the following table
 
 Address (
-    street CHAR(30) NOT NULL,
+    street CHAR(30. NOT NULL,
     apartment CHAR(10),
 
-    city CHAR(40) NOT NULL,
+    city CHAR(40. NOT NULL,
 
 )
 write a SQL statement that returns nonapartment addresses only.
 
-The trick is in the use of the equality operator (‘=’) to test for a NULL column value. In most databases, a comparison to NULL returns UNKNOWN - even when comparing NULL to NULL. The proper way to check for a NULL or non-NULL column is to use the IS NULL or IS NOT NULL syntax. Thus, the original query should be restated as follows:
+The trick is in the use of the equality operator (‘=’. to test for a NULL column value. In most databases, a comparison to NULL returns UNKNOWN - even when comparing NULL to NULL. The proper way to check for a NULL or non-NULL column is to use the IS NULL or IS NOT NULL syntax. Thus, the original query should be restated as follows:
 
 SELECT * FROM Address WHERE apartment IS NULL
 
@@ -1231,7 +1231,7 @@ bool endianness(){
     char *ptr;
 
     testNum = 1;
-    ptr = (char *) &testNum;
+    ptr = (char *. &testNum;
     return (*ptr); /* Returns the byte at the lowest address */
 }
 This solution is sufficient for an interview. However, as the goal of an interview is not just to solve problems, but also to impress your interviewer, you may want to consider a slightly more elegant way to solve this problem. It involves using a feature of C/C++ called union types. A union is like a struct, except that all of the members are allocated starting at the same location in memory.
@@ -1252,7 +1252,7 @@ Number of Ones
 
 Write a function that determines the number of 1 bits in the computer’s internal representation of a given integer.
 
-The number will be shifted to the right, but the new bit added on the left will depend on how the shift operator treats negative values. Let’s avoid the problem entirely and use Java’s >>> operator for our example. In the other C-like languages, you can also avoid the problem by reading the value as an unsigned integer. (That solution doesn’t work with Java because there are no unsigned integer types in Java.) Using either the >>> or an unsigned integer means that the shift operator will not sign extend, and the new bits that are added during the right shifting will be 0’s. The number will eventually become all 0’s. Finally, consider the case where you are given a positive integer. This is the sample case that you worked with, and the algorithm works correctly here.
+The number will be shifted to the right, but the new bit added on the left will depend on how the shift operator treats negative values. Let’s avoid the problem entirely and use Java’s >>> operator for our example. In the other C-like languages, you can also avoid the problem by reading the value as an unsigned integer. (That solution doesn’t work with Java because there are no unsigned integer types in Java.. Using either the >>> or an unsigned integer means that the shift operator will not sign extend, and the new bits that are added during the right shifting will be 0’s. The number will eventually become all 0’s. Finally, consider the case where you are given a positive integer. This is the sample case that you worked with, and the algorithm works correctly here.
 
 The code for this algorithm is as follows:
 
@@ -1260,7 +1260,7 @@ int numOnesInBinary( int number )
 {
      int numOnes = 0;
      while( number != 0 ){
-          if( ( number & 1 ) == 1 )
+          if( ( number & 1 . == 1 )
               numOnes++;
           number = number >>> 1;
      } 
@@ -1310,7 +1310,7 @@ Estimation Problems
 
 One estimation problem is “How many gas stations are there in the United States?” It has been so widely reported that this problem was posed by Microsoft that it seems almost certain to be apocryphal; nevertheless, it is a good example.
 
-These problems are usually not difficult compared with the more common brainteasers. You’re not expected to know the actual statistic or fact. Instead, you are expected to do a rough order of magnitude calculation based on facts you do know. Because everything is an estimate anyway, try to adjust or round your figures so that any large numbers you use are powers (or at least multiples) of ten - this will significantly simplify your arithmetic.
+These problems are usually not difficult compared with the more common brainteasers. You’re not expected to know the actual statistic or fact. Instead, you are expected to do a rough order of magnitude calculation based on facts you do know. Because everything is an estimate anyway, try to adjust or round your figures so that any large numbers you use are powers (or at least multiples. of ten - this will significantly simplify your arithmetic.
 
 Taking the gas station problem as an example, your calculation might go like this: “It takes me about six minutes to fill up my car. I go to the gas station about once a week, and there are usually two other cars there. If I assume this is average for Americans, each gas station services about 30 cars an hour. Suppose a gas station were open 12 hours a day, 7 days a week. That would be 84 hours a week. In reality, a gas station is probably open more than 12 hours a day, so I’ll say the average gas station is open 100 hours a week. That means it services 3,000 cars a week. There’s somewhere upwards of 250 million people in the United States. Not everyone has a car, so suppose there are 100 million cars on the road. If every car goes to the gas station once a week, like mine does, and each station sees 3,000 cars a week, there would have to be about 33,000 gas stations in the United States.” This figure is probably off by a lot, but it’s likely within an order of magnitude (that is, there are more than 3,300 gas stations and fewer than 330,000). It’s much more important that you are able to form a framework for the estimation and rapidly work through the calculations than that you accurately estimate the statistic. For more practice, try estimating the number of kindergarten teachers in your state, the circumference of the earth, and the weight of a ferry boat.
 
@@ -1338,7 +1338,7 @@ Tip A limited form of multiple inheritance can be simulated in Java using interf
 
 In Java, all objects are passed by reference, whereas in C++, the default behavior is to pass objects by value. Java does not perform automatic type casting as C++ does, though newer Java features such as generics and autoboxing now handle many common cases. In Java, all methods are virtual, meaning the implementation for a method is selected according to the type of the object as opposed to the type of the reference. In C++, methods must be explicitly declared as virtual. Java has defined sizes for primitive data types, while type sizes are implementation-dependent in C++ (and C).
 
-In situations where there is legacy C code and a great need for performance, C++ has certain benefits, especially when low-level system access is required. In situations where portability, security, and speed of development are emphasized, Java (or a similar language such as C#) may be a better choice.
+In situations where there is legacy C code and a great need for performance, C++ has certain benefits, especially when low-level system access is required. In situations where portability, security, and speed of development are emphasized, Java (or a similar language such as C#. may be a better choice.
 
 Garbage Collection
 
@@ -1346,11 +1346,11 @@ Important Discuss what garbage collection is and explain different ways it can b
 
 Garbage collection is the process by which a program automatically finds and reclaims memory that is no longer used or no longer accessible by an application. This reclamation occurs without programmer assistance. C#, Java, Lisp, and Perl are examples of languages with garbage-collection facilities.
 
-Garbage collection provides several advantages over having a programmer explicitly deallocate memory. It eliminates bugs due to dangling pointers and memory leaks. It also promotes greater simplicity in program and interface design because the complicated mechanisms traditionally used to ensure that memory is properly freed (such as “smart pointers” in C++) are unnecessary. In addition, because programmers don’t have to worry about memory deallocation, program development proceeds at a more rapid pace.
+Garbage collection provides several advantages over having a programmer explicitly deallocate memory. It eliminates bugs due to dangling pointers and memory leaks. It also promotes greater simplicity in program and interface design because the complicated mechanisms traditionally used to ensure that memory is properly freed (such as “smart pointers” in C++. are unnecessary. In addition, because programmers don’t have to worry about memory deallocation, program development proceeds at a more rapid pace.
 
 Garbage collection is not without its disadvantages, however. Garbage-collected programs often run more slowly because of the overhead needed for the system to determine when to deallocate and reclaim memory no longer needed. In addition, the system will occasionally over-allocate memory and may not free memory at the best possible time.
 
-One method of garbage collection is to use reference counting. This involves tracking how many variables reference an object. Initially, there will be one reference to a piece of memory. The reference count will increase if the variable referencing it is copied. When a variable referencing an object changes value or goes out of scope, the object’s reference count is decremented. If a reference count ever goes to 0, the memory associated with the object is freed: If no one is keeping a reference to the object, then the object (and hence its memory) is no longer needed.
+One method of garbage collection is to use reference counting. This involves tracking how many variables reference an object. Initially, there will be one reference to a piece of memory. The reference count will increase if the variable referencing it is copied. When a variable referencing an object changes value or goes out of scope, the object’s reference count is decremented. If a reference count ever goes to 0, the memory associated with the object is freed: If no one is keeping a reference to the object, then the object (and hence its memory. is no longer needed.
 
 Reference counting is simple and relatively fast. However, it doesn’t handle circular references. Consider what happens in the case of a circularly linked list with nothing external pointing to it. Every element in the list has a nonzero reference count, yet the memory isn’t referenced by any object outside the list itself. Thus, the memory could safely be deallocated, but reference-based garbage collection won’t free it.
 
@@ -1370,10 +1370,10 @@ Latency and bandwidth problems are often encountered when searching the Web. If 
 
 Hash Tables versus Binary Search Trees
 
-Important Compare and contrast a hash table and a binary search tree. If you were designing the address book data structure for a personal digital assistant (PDA) with limited memory, which one would you use?
+Important Compare and contrast a hash table and a binary search tree. If you were designing the address book data structure for a personal digital assistant (PDA. with limited memory, which one would you use?
 
 A binary search tree can insert and retrieve in O(log(n)). This is fast, though not as fast as a hash table’s O(1). A binary search tree, however, also maintains its data in sorted order.
 
 In a PDA, you want to keep as much memory as possible available for data storage. If you use an unordered data structure such as a hash table, you need additional memory to sort the values, as you undoubtedly want to display the values in alphabetical order. Therefore, if you use a hash table, you have to set aside memory for sorting that could otherwise be used as storage space.
 
-If you use a binary search tree, you won’t have to waste memory or processing time on sorting records for display. Although binary tree operations are slower than hash table operations, a device like this is likely to have no more than about 10,000 entries, so a binary search tree’s O(log(n)) lookup will undoubtedly be fast enough. For these reasons, a binary search tree is better suited for this kind of task than a hash table.
+If you use a binary search tree, you won’t have to waste memory or processing time on sorting records for display. Although binary tree operations are slower than hash table operations, a device like this is likely to have no more than about 10,000 entries, so a binary search tree’s O(log(n). lookup will undoubtedly be fast enough. For these reasons, a binary search tree is better suited for this kind of task than a hash table.
