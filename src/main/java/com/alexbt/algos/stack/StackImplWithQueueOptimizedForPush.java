@@ -5,20 +5,38 @@ import java.util.Queue;
 
 public class StackImplWithQueueOptimizedForPush<T> {
 
-    private Queue<T> readyToPush = new LinkedList<>();
-    private Queue<T> readyToPop = new LinkedList<>();
+    private Queue<T> enqueue = new LinkedList<>();
+    private Queue<T> dequeue = new LinkedList<>();
 
     public T pop() {
-        T elem = readyToPush.remove();
-        while (!readyToPush.isEmpty()) {
-            readyToPop.add(elem);
-            elem = readyToPush.remove();
+        while (dequeue.size() > 1) {
+            enqueue.add(dequeue.remove());
         }
-
-        return elem;
+        T remove = dequeue.remove();
+        Queue<T> tmp = dequeue;
+        dequeue = enqueue;
+        enqueue = tmp;
+        return remove;
     }
 
     public void push(T element) {
-        readyToPush.add(element);
+        if (dequeue.isEmpty()) {
+            dequeue.add(element);
+        } else {
+            enqueue.add(element);
+        }
+    }
+
+    public static void main(String[] args) {
+        StackImplWithQueueOptimizedForPush<Integer> stack = new StackImplWithQueueOptimizedForPush<>();
+        stack.push(4);
+        stack.push(3);
+        stack.push(2);
+        stack.push(1);
+
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
     }
 }
