@@ -1,10 +1,10 @@
 package com.alexbt.algos.tree.bst;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 import com.alexbt.algos.util.BstNode;
 import com.alexbt.algos.util.Visitor;
+
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class BreadthFirstSearch {
 

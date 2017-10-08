@@ -29,8 +29,8 @@ public class Knapsack {
 
     // Driver program to test above function
     public static void main(String args[]) {
-        int values[] = new int[] { 20, 30, 40, 10 };
-        int weight[] = new int[] { 2, 3, 4, 6 };
+        int values[] = new int[]{20, 30, 40, 10};
+        int weight[] = new int[]{2, 3, 4, 6};
         int maxWeight = 6;
         System.out.println(knapSack(maxWeight, weight, values));
     }

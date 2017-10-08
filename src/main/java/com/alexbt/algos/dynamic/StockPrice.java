@@ -38,9 +38,9 @@ public class StockPrice {
     }
 
     public static void main(String[] args) {
-        findBestBuySell(new int[] { 100, 180, 260, 310, 40, 305, 300 });
-        findBestBuySell(new int[] { 100, 180, 260, 310, 40, 250, 300 });
-        findBestBuySell(new int[] { 100, 180, 260, 310, 40, 250, 240 });
-        findBestBuySell(new int[] { 100, 180, 260, 310, 40, 251, 240 });
+        findBestBuySell(new int[]{100, 180, 260, 310, 40, 305, 300});
+        findBestBuySell(new int[]{100, 180, 260, 310, 40, 250, 300});
+        findBestBuySell(new int[]{100, 180, 260, 310, 40, 250, 240});
+        findBestBuySell(new int[]{100, 180, 260, 310, 40, 251, 240});
     }
 }
