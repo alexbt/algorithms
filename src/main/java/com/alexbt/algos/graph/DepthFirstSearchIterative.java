@@ -1,12 +1,12 @@
 package com.alexbt.algos.graph;
 
-import java.util.HashSet;
-import java.util.Set;
-import java.util.Stack;
-
 import com.alexbt.algos.util.Assert;
 import com.alexbt.algos.util.GraphNode;
 import com.alexbt.algos.util.Visitor;
+
+import java.util.HashSet;
+import java.util.Set;
+import java.util.Stack;
 
 public class DepthFirstSearchIterative {
 

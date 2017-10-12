@@ -6,7 +6,7 @@ import java.util.Set;
 public class AllDuplicateButOne {
 
     public static void main(String[] args) {
-        int[] array = new int[] { 1, 3, 4, 7, 3, 1, 4 };
+        int[] array = new int[]{1, 3, 4, 7, 3, 1, 4};
         System.out.println(findSingleItem(array));
         System.out.println(findSingleItem2(array));
     }

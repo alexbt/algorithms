@@ -8,6 +8,19 @@ public class StackImplWithQueueOptimizedForPop<T> {
     private Queue<T> enqueue = new LinkedList<>();
     private Queue<T> dequeue = new LinkedList<>();
 
+    public static void main(String[] args) {
+        StackImplWithQueueOptimizedForPop<Integer> stack = new StackImplWithQueueOptimizedForPop<>();
+        stack.push(4);
+        stack.push(3);
+        stack.push(2);
+        stack.push(1);
+
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+    }
+
     public T pop() {
         return dequeue.remove();
     }
@@ -22,18 +35,5 @@ public class StackImplWithQueueOptimizedForPop<T> {
         Queue<T> tmp = dequeue;
         dequeue = enqueue;
         enqueue = tmp;
-    }
-
-    public static void main(String[] args) {
-        StackImplWithQueueOptimizedForPop<Integer> stack = new StackImplWithQueueOptimizedForPop<>();
-        stack.push(4);
-        stack.push(3);
-        stack.push(2);
-        stack.push(1);
-
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
     }
 }

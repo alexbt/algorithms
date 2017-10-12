@@ -1,11 +1,11 @@
 package com.alexbt.algos.graph;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 import com.alexbt.algos.util.Assert;
 import com.alexbt.algos.util.GraphNode;
 import com.alexbt.algos.util.Visitor;
+
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class BreadthFirstSearchIterative {
 

@@ -42,11 +42,6 @@ public class LinkedList {
         return root;
     }
 
-    static class Node {
-        Node next;
-        int val;
-    }
-
     public static void main(String[] args) {
         int i = 1;
         Node root = new Node();
@@ -71,5 +66,10 @@ public class LinkedList {
         node = node.next;
         node.val = val;
         return node;
+    }
+
+    static class Node {
+        Node next;
+        int val;
     }
 }

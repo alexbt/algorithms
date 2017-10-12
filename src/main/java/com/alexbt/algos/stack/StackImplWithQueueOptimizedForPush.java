@@ -8,6 +8,19 @@ public class StackImplWithQueueOptimizedForPush<T> {
     private Queue<T> enqueue = new LinkedList<>();
     private Queue<T> dequeue = new LinkedList<>();
 
+    public static void main(String[] args) {
+        StackImplWithQueueOptimizedForPush<Integer> stack = new StackImplWithQueueOptimizedForPush<>();
+        stack.push(4);
+        stack.push(3);
+        stack.push(2);
+        stack.push(1);
+
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+    }
+
     public T pop() {
         while (dequeue.size() > 1) {
             enqueue.add(dequeue.remove());
@@ -25,18 +38,5 @@ public class StackImplWithQueueOptimizedForPush<T> {
         } else {
             enqueue.add(element);
         }
-    }
-
-    public static void main(String[] args) {
-        StackImplWithQueueOptimizedForPush<Integer> stack = new StackImplWithQueueOptimizedForPush<>();
-        stack.push(4);
-        stack.push(3);
-        stack.push(2);
-        stack.push(1);
-
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
     }
 }
